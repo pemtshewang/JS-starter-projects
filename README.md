@@ -1,6 +1,6 @@
 # JS-starter-projects
 
-- This repository will contains some of my projects during my learning journey to Javascript
+- This repository will contain some of my projects during my learning journey to Javascript
 
 - The projects will include games and other useful applications 
 
