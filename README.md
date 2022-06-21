@@ -6,6 +6,6 @@
 
 - The project will also help my productivity with Git and Github operations.
 
->>>The journey of a thousand miles starts with a single step.
+>The journey of a thousand miles starts with a single step.
 
 🦾 Programmers 🔉
